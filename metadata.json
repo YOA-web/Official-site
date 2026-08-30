@@ -1,0 +1,6 @@
+{
+  "name": "YOA",
+  "description": "夜を越えるための場所。ブランド「YOA」の公式Webサイトと夜のコンパス。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

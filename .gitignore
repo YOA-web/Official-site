@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Protect manual GitHub-uploaded production assets from AI Studio overwrite
+public/harbor-desktop.jpg
+public/harbor-mobile.jpg
+public/yoa-logo.png
